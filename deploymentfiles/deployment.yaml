@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
         - name: fbcont1
-          image: sonu171/cicd:5
+          image: sonu171/cicd:7
           ports:
             - containerPort: 8080
       
